@@ -1,5 +1,5 @@
 # Fair Multiple Decision Making Through Soft Interventions
-This repository is the official implementation of Fair Multiple Decision Making Through Soft Interventions. 
+This repository is the official implementation of [Fair Multiple Decision Making Through Soft Interventions](https://proceedings.neurips.cc//paper/2020/hash/d0921d442ee91b896ad95059d13df618-Abstract.html).
 
 ## Overview
 + `data` contrains the data
@@ -45,3 +45,14 @@ Required python packages:
 ## Results
 
 ![Results](results/results.png)
+
+## Citation
+```
+@article{hu2020fair,
+  title={Fair Multiple Decision Making Through Soft Interventions},
+  author={Hu, Yaowei and Wu, Yongkai and Zhang, Lu and Wu, Xintao},
+  journal={Advances in Neural Information Processing Systems},
+  volume={33},
+  year={2020}
+}
+```
